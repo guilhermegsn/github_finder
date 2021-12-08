@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 
 export class Navbar extends Component {
     static defaultProps = {
-        title: 'GitHub Finder',
+        title: 'GitHub Finder ',
         icon: 'fab fa-github'
     }
     render() {
